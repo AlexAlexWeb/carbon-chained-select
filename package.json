@@ -5,6 +5,11 @@
     "dev": "webpack -w",
     "build": "webpack"
   },
+  "require": {
+  "php": ">=7.0",
+   "alexalexweb/chained-select": "dev-master"
+},
+"minimum-stability": "dev",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.23.1",
